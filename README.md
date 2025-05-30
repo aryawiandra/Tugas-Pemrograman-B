@@ -17,12 +17,3 @@
 Proyek ini merupakan tugas pemrograman mata kuliah Komputasi Numerik yang bertujuan untuk menghitung dosis obat optimal dengan menggunakan metode Newton-Raphson dalam bahasa pemrograman C++. Program ini dapat membantu menentukan dosis berdasarkan model matematis tertentu yang biasanya digunakan dalam farmakokinetika.
 
 ---
-
-## Fitur
-
-- Input parameter farmakokinetika (misal: konsentrasi target, waktu paruh, volume distribusi, dll.)
-- Implementasi metode Newton-Raphson untuk mencari dosis optimal.
-- Output hasil perhitungan secara detail.
-- Penanganan error untuk input tidak valid.
-
----
