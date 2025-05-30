@@ -24,8 +24,3 @@ Program juga mencetak hasil per iterasi dalam bentuk tabel serta menyediakan val
 - Output tabel hasil iterasi
 - Akurasi tinggi dengan hasil cepat konvergen
 - Desain OOP modular
-
-### Rencana Pengembangan:
-- Antarmuka grafis (GUI) untuk pengguna non-teknis
-- Simulasi multi-dosis
-- Integrasi dengan data klinis atau basis data pasien
